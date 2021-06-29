@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AisatsuApp</string>
+    <string name="alertdialog">AlertDialog</string>
+    <string name="button">BUTTON</string>
+    <string name="timePickerDialog">TimePickerDialog</string>
+    <string name="textview">TextView</string>
+</resources>
